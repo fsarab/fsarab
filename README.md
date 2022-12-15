@@ -3,7 +3,7 @@
 
 
 ##  About Me
-I'm M.Sc student in Computer Science at Tehran-Polytechnic (AUT) and interested research in Machine Learning ,Natural Language Processing and Data Science.
+I'm M.Sc student in Computer Science at Amirkabir University of Technology and interested research in Machine Learning ,Natural Language Processing and Data Science.
 
 
 ## 🔗 Links
