@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**fsarab/fsarab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Fateme(Samin)! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+I'm M.Sc student in Computer Science at Tehran-Polytechnic (AUT) and interested research in Machine Learning ,Natural Language Processing and Data Science.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-arab/)
+
+
+
+##  Skills
+1. Python
+2. Machine Learning
+3. Data Science
+4. NLP
+
