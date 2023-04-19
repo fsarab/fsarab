@@ -13,7 +13,7 @@ I'm M.Sc student in Computer Science at Amirkabir University of Technology and i
 
 ##  Skills
 1. Python
-2. Machine Learning
-3. Data Science
-4. NLP
+2. NLP
+3. Machine Learning
+4. Reinforcement Learning
 
