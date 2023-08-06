@@ -4,7 +4,9 @@
 
 ##  About Me
 I'm M.Sc student in Computer Science at Amirkabir University of Technology, specializing in the fascinating fields of Natural Language Processing (NLP) and Reinforcement Learning (RL).
+
 My research focuses on applying RL techniques to NLP tasks, such as dialogue systems and language generation. My ultimate goal is to contribute to the advancement of NLP and RL by developing innovative solutions that bridge the gap between human language and intelligent machines.
+
 Proficient in Python, TensorFlow, and PyTorch, I possess the necessary skills to implement NLP and RL models effectively.
 
 ## 🔗 Links
